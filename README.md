@@ -58,7 +58,7 @@ A dual-line chart displaying:
 ```
 14-Day Moving Avg =
 AVERAGEX(
-    DATESINPERIOD('Date'[Date], MAX('Date'[Date]), -14, DAY),
+    DATEADD('Date'[Date],-14, DAY),
     [Total Sales]
 )
 ```

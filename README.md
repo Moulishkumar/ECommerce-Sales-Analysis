@@ -165,7 +165,7 @@ Vendor-level detailed page with:
 
 ---
 
-## 🙌 Nikhil
+## 🙌 Moulish
 
-**Nikhil Hattiholi**
+**Moulishkumar**
 Data Analyst | Power BI | SQL | DAX
